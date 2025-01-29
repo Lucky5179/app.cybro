@@ -342,7 +342,7 @@
                               (0, n.jsx)("li", {
                                 className: y().sectionItem,
                                 children: (0, n.jsx)(l.default, {
-                                  href: "https://docs.cybro.io/cybro",
+                                  href: "https://docs.cybroai.vip/cybro",
                                   target: "_blank",
                                   "data-sentry-element": "Link",
                                   "data-sentry-source-file": "Footer.tsx",
