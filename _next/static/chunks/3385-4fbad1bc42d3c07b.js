@@ -288,7 +288,7 @@
                                 ),
                                 children: (0, n.jsxs)(l.default, {
                                   className: y().socialLink,
-                                  href: "https://x.com/",
+                                  href: "https://x.com/cybro_erc20",
                                   target: "_blank",
                                   "data-sentry-element": "Link",
                                   "data-sentry-source-file": "Footer.tsx",
@@ -308,7 +308,7 @@
                                 ),
                                 children: (0, n.jsxs)(l.default, {
                                   className: y().socialLink,
-                                  href: "https://t.me/",
+                                  href: "https://t.me/cybro_erc20",
                                   target: "_blank",
                                   "data-sentry-element": "Link",
                                   "data-sentry-source-file": "Footer.tsx",
